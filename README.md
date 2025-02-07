@@ -1,2 +1,2 @@
 # Project1
-This is just for my internship learnings. 
+This is just for my personal portfolio. 
