@@ -1,2 +1,2 @@
-# Project1
+# Portfolio
 This is just for my personal portfolio. 
